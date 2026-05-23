@@ -13,7 +13,6 @@
 
 - 🎓 B.Tech Information Technology Student at **MITS Gwalior**
 - 🌱 Currently learning **Data Structures & Algorithms, React, Node.js, System Design**
-- 🤖 Building **AI-powered projects using Ollama, RAG, FastAPI, Local LLMs**
 - ☁️ Interested in **Cloud, AI Agents, Backend Systems & Full Stack Development**
 - 🚀 Love turning real-world problems into software projects
 
