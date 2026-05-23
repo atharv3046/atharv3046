@@ -1,7 +1,23 @@
-# 💫 About Me:
-👯 I’m looking to collaborate on: Open-source web development projects and productivity tools for students<br><br>🤝 I’m looking for help with: Advanced backend development, scalable system design, and API integrations<br><br>🌱 I’m currently learning: Data Structures, Algorithms, and Full Stack Web Development<br><br>💬 Ask me about: C++, Data Structures, Web Development, and Project Building<br><br>⚡ Fun fact: I love turning study problems into coding projects 🚀
+<h1 align="center">Hi 👋, I'm Atharv Chaturvedi</h1>
+<h3 align="center">B.Tech IT Student | Full Stack Developer | AI & Cloud Enthusiast</h3>
 
+<p align="center">
+🚀 Building real-world AI & Full Stack Projects <br>
+💻 Passionate about Web Development, AI Agents & Automation <br>
+📍 India
+</p>
 
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech Information Technology Student at **MITS Gwalior**
+- 🌱 Currently learning **Data Structures & Algorithms, React, Node.js, System Design**
+- 🤖 Building **AI-powered projects using Ollama, RAG, FastAPI, Local LLMs**
+- ☁️ Interested in **Cloud, AI Agents, Backend Systems & Full Stack Development**
+- 🚀 Love turning real-world problems into software projects
+
+---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharv-chaturvedi7067005326/) 
 
