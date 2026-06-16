@@ -24,9 +24,9 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
+## 🧑‍💻 About Me
 
 ```typescript
 const atharv: Developer = {
@@ -46,23 +46,21 @@ const atharv: Developer = {
 };
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
 
 ## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="60"/>
-
 | 🥇 | Achievement | Date | Details |
 |---|---|---|---|
-| 🏆 | **Top 5 — AI Synergy Hackathon** | March 2026 | SmartSathi AI chatbot @ IIITM Gwalior, competing against teams across India |
+| 🏆 | **Top 5 — AI Synergy Hackathon** | March 2026 | SmartSathi AI chatbot @ IIITM Gwalior, competing vs teams across India |
 | 💼 | **Software Dev Intern** | May 2026 – Present | AGS Cybertech — AI & Web Development, Jabalpur |
-| 🌐 | **College Fest Web Dev** | 2025 | Built official MITS tech fest website — 500+ student visitors |
+| 🌐 | **College Fest Web Dev** | 2025 | Official MITS tech fest website — 500+ student visitors |
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
 
 ## 🚀 Featured Projects
 
@@ -84,7 +82,7 @@ const atharv: Developer = {
 
 ```
 🌐 Hindi · Marathi · Tamil · Bengali support
-📸 Screenshot Analysis via Gemini Vision  
+📸 Screenshot Analysis via Gemini Vision
 🛡️ Real-time UPI Scam Detection
 ⚡ AI Fallback Chain + Intelligent Caching
 ```
@@ -103,7 +101,6 @@ const atharv: Developer = {
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![PostGIS](https://img.shields.io/badge/PostGIS-008bb9?style=flat-square)
-![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white)
 
 ```
 🗺️ PostGIS geospatial search — find nearest hospitals instantly
@@ -113,7 +110,7 @@ const atharv: Developer = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -140,13 +137,13 @@ const atharv: Developer = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=atharv3046&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=ffffff&border_radius=12&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=atharv3046&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=ffffff&border_radius=12&count_private=true" height="170"/>
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharv3046&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&border_radius=12" height="170"/>
 
@@ -156,12 +153,12 @@ const atharv: Developer = {
 
 <br/><br/>
 
-<!-- 3D Contribution Graph -->
+<!-- 3D Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharv3046&bg_color=0D1117&color=00D9FF&line=7C3AED&point=FF6B6B&area=true&area_color=7C3AED&hide_border=true&radius=8" width="100%"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
 
 ## 🐍 Contribution Snake
 
@@ -175,7 +172,7 @@ const atharv: Developer = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
 
 ## 📫 Connect With Me
 
@@ -193,15 +190,14 @@ const atharv: Developer = {
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> <em>I love connecting with people — feel free to reach out!</em>
+*✨ I love connecting with people — feel free to reach out!*
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
 
 <div align="center">
 
-<!-- 3D Wave Footer -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:7C3AED,50:302b63,100:0f0c29&height=150&section=footer&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F;Star+my+repos+if+you+find+them+useful+%E2%AD%90;Let's+build+something+amazing+together+%F0%9F%9A%80" alt="Footer Typing" />
