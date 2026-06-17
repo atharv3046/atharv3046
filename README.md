@@ -5,8 +5,8 @@
 ### 🚀 Full-Stack Developer | AI Enthusiast | B.Tech IT @ MITS Gwalior
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/atharv3046">
+    <img src="https://komarev.com/ghpvc/?username=atharv3046&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   </a>
 </p>
 
@@ -108,11 +108,11 @@ AI-powered learning platform that converts YouTube playlists into structured stu
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=atharv3046&show_icons=true&theme=tokyonight" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=atharv3046&theme=tokyonight" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharv3046&layout=compact&theme=tokyonight" />
 
 </div>
 
