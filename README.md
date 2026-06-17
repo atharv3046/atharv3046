@@ -1,43 +1,143 @@
-# 💫 About Me:
-🔭 I’m currently working on Full-Stack Web Applications and scalable backend systems<br><br>👯 I’m looking to collaborate on Open Source, Hackathons, React.js, Node.js, and AI projects<br><br>🤝 I’m looking for help with System Design, Cloud Deployment, and Backend Architecture<br><br>🌱 I’m currently learning Advanced Backend Development, PostgreSQL, System Design, and DSA<br><br>💬 Ask me about React.js, Node.js, Express.js, Supabase, PostgreSQL, AI Integrations, and Full-Stack Development<br><br>
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/atharrvv16/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/atharvchaturvedi/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharv3046@gmail.com) 
-
-## 🛠 Tech Stack
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,py,cpp,react,nextjs,nodejs,express,mongodb,postgres,firebase,supabase,tailwind,html,css,git,github,vscode,figma,postman&theme=dark&perline=10" />
+# Hi 👋, I'm Atharv Chaturvedi
 
-<br/><br/>
+### 🚀 Full-Stack Developer | AI Enthusiast | B.Tech IT @ MITS Gwalior
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+<p>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
 
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=atharv3046&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=atharv3046&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=atharv3046&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
+
+## 🚀 About Me
+
+🔭 Currently working on **Full-Stack Web Applications, AI-Powered Platforms, and Scalable Backend Systems**
+
+🌱 Currently learning **Advanced Backend Development, PostgreSQL, System Design, and DSA**
+
+👯 Looking to collaborate on **Open Source, Hackathons, React.js, Node.js, and AI Projects**
+
+🤝 Looking for help with **Cloud Infrastructure, DevOps, and System Design**
+
+💬 Ask me about **React.js, React Native, Node.js, Express.js, Supabase, PostgreSQL, REST APIs, and AI Integrations**
+
+⚡ Fun Fact: **I re-engineered a live WordPress platform into a production-ready Full-Stack application during my internship.**
 
 ---
-[![](https://komarev.com/ghpvc/?username=atharv3046&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql)
+
+### Frontend
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react)
+![Expo](https://img.shields.io/badge/Expo-000?style=for-the-badge&logo=expo)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase)
+
+### AI & APIs
+![OpenAI](https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logo=openai)
+![Google Gemini](https://img.shields.io/badge/Gemini-000?style=for-the-badge&logo=google)
+![REST API](https://img.shields.io/badge/REST_API-000?style=for-the-badge)
+
+### Tools & Deployment
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+
+---
+
+## 🌟 Featured Projects
+
+### 🧠 Sahayak
+AI-powered multilingual digital literacy platform with real-time UPI scam detection, screenshot analysis, and voice assistance.
+
+**Tech:** React.js • Node.js • Gemini API • OpenAI API • PostgreSQL
+
+---
+
+### 🏥 Hospital Bed Finder
+Cross-platform application providing real-time hospital bed availability with geospatial search and emergency workflows.
+
+**Tech:** React Native • Expo • Supabase • PostgreSQL • PostGIS
+
+---
+
+### 🎓 StudySync
+AI-powered learning platform that converts YouTube playlists into structured study plans with progress tracking.
+
+**Tech:** React • Node.js • Firebase • Gemini AI
+
+---
+
+## 🏆 Achievements
+
+🥇 Top 5 Finalist — AI Synergy Hackathon, Gwalior AI Summit 2026
+
+🚀 Software Development Intern — AGS Cybertech & Software Solution Pvt. Ltd.
+
+🏅 Built and deployed official website for a MITS technical fest serving 500+ students
+
+💻 Active Open Source & Hackathon Participant
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/atharvchaturvedi/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:atharv3046@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/atharv3046">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ "Building solutions that create real-world impact."
+
+</div>
