@@ -14,15 +14,13 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 🔭 Currently working on **Full-Stack Web Applications, AI-Powered Platforms, and Scalable Backend Systems**
 
 🌱 Currently learning **Advanced Backend Development, PostgreSQL, System Design, and DSA**
 
 👯 Looking to collaborate on **Open Source, Hackathons, React.js, Node.js, and AI Projects**
-
-🤝 Looking for help with **Cloud Infrastructure, DevOps, and System Design**
 
 💬 Ask me about **React.js, React Native, Node.js, Express.js, Supabase, PostgreSQL, REST APIs, and AI Integrations**
 
